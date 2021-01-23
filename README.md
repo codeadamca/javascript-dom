@@ -24,4 +24,4 @@ For example, the following HTML:
 
 Would have the following DOM:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/javascript-dom/main/dom-chart.png)
+![DOM Chart](https://raw.githubusercontent.com/codeadamca/javascript-dom/main/dom-chart.png)
