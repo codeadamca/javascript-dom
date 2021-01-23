@@ -62,6 +62,15 @@ To change the `href` value of the link we would use the following JavaScript:
 document.getElementById('link').href = "https://codeadam.ca/learning/javascript-dom.html";
 ```
 
+## Trying It Out
+
+Create a new HTML document, add a heading, some images, and some paragraphs. Use [Lipsum](https://lipsum.com/) for some quick paragraph content. Add some JavaScript to the HTML document that will complete the following objectives:
+
+1. Change the text colour of the `h1` element.
+2. Change the text of the first `p` element.
+3. Change the border colour of one of the `img` elements.
+4. Change the background colour of the `body` element.
+
 ## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
