@@ -5,11 +5,18 @@
 </head>
 <body>
 
-    <h1>The JavaScript DOM</h1>
+    <h1 id="heading">The JavaScript DOM</h1>
 
-    <p>Mauris convallis dictum odio. Quisque euismod finibus.</p>
+    <p id="paragraph">Mauris convallis dictum odio. Quisque euismod finibus.</p>
 
-    <a href="https://codeadam.ca">codeadam.ca</a>
+    <a id="link" href="https://codeadam.ca">codeadam.ca</a>
     
+    <script>
+
+    document.getElementById('heading').style.color = "red";
+    document.getElementById('link').href = "https://codeadam.ca/learning/javascript-dom.html";
+
+    </script>
+
 </body>
 </html>
