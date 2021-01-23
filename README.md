@@ -50,10 +50,24 @@ The easiest method of referencing an element in the DOM is by giving the element
 </html>
 ```
 
-To reference the heading we would use the `document.getElementById('heading')`. We can then use a DOM element to change the properties of the element. FOr example, to chagne the heading to red we would sue the following JavaScript:
+To reference the heading we would use the `document.getElementById('heading')`. We can then use a DOM element to change the properties of the element. For example, to change the heading to red we would use the following JavaScript:
 
 ```javascript
-document.getElementsById('heading')[0].style.color = "red";
+document.getElementById('heading').style.color = "red";
 ```
 
-## 
+To change the `href` value of the link we would use the following JavaScript:
+
+```javascript
+document.getElementById('link').href = "https://codeadam.ca/learning/javascript-dom.html";
+```
+
+## Tutorial Requirements:
+
+* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+
+Full tutorial URL: https://codeadam.ca/learning/javascript-dom.html
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
