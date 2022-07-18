@@ -1,4 +1,4 @@
-# javascript-dom
+# A Basic Introduction to JavaScript and the DOM
 
 When a browser renders a webpage from an HTML document, the browser creats a DOM (Document Object Model). This DOM can be use by JavaScript to add and/or manipulate elements in the document.
 
