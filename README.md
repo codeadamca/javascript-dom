@@ -26,7 +26,7 @@ For example, the following HTML:
 
 Would have the following DOM:
 
-![DOM Chart](https://raw.githubusercontent.com/codeadamca/javascript-dom/main/dom-chart.png)
+![DOM Chart](_readme/dom-chart.png)
 
 ## Referencing Elements
 
@@ -71,11 +71,14 @@ Create a new HTML document, add a heading, some images, and some paragraphs. Use
 3. Change the border colour of one of the `img` elements.
 4. Change the background colour of the `body` element.
 
-## Tutorial Requirements:
+> Full tutorial URL:   
+> https://codeadam.ca/learning/javascript-dom.html
+
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
-
-Full tutorial URL: https://codeadam.ca/learning/javascript-dom.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
