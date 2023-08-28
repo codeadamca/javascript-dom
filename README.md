@@ -78,7 +78,7 @@ Create a new HTML document, add a heading, some images, and some paragraphs. Use
 
 ## Repo Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
